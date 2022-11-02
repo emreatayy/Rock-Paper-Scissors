@@ -1,0 +1,23 @@
+body {
+  background-color: yellow;
+}
+div {
+  margin: auto;
+  width: 50%;
+  border: 2px solid black;
+  margin-top: 20%;
+  padding: 15px;
+  border-radius: 20px;
+  box-shadow: 5px 10px;
+  background-color: white;
+}
+button {
+    padding: 5px;
+}
+button:hover {
+  background-color: black;
+  color: white;
+}
+#result {
+  color: darkblue;
+}
